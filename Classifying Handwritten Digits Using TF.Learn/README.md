@@ -1,0 +1,1 @@
+This folder contains necessary files in order to classify handwritten digits using TF.Learn 
